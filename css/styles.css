@@ -813,14 +813,14 @@ input[type='checkbox'] {
 }
 
 .header-team .team-header-img {
-	background: url(/images/team.png) center;
+	background: url('../images/team.png') center;
 	background-repeat: no-repeat;
 	height: 45rem;
 	margin-top: -6rem;
 }
 
 .header-proces .spots-header-img {
-	background: url(/images/fiets-proces.png) center;
+	background: url('../images/fiets-proces.png') center;
 	background-repeat: no-repeat;
 	position: absolute;
 	width: 38rem;
@@ -1393,7 +1393,7 @@ input[type='checkbox'] {
 }
 
 .basic-team {
-	background: url(/images/samenwerken.jpg) center;
+	background: url('../images/samenwerken.jpg') center;
 	background-repeat: no-repeat;
 	background-size: 100%;
 }
@@ -1421,7 +1421,7 @@ input[type='checkbox'] {
 }
 
 .basic-proces {
-	background: url(/images/kubus.jpg) center;
+	background: url('../images/kubus.jpg') center;
 	background-repeat: no-repeat;
 	background-size: 100%;
 	margin-top: 5rem;
